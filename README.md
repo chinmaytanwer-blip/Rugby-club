@@ -241,7 +241,7 @@ newsGrid.innerHTML=news.map((n,i)=>`<article class="nc"><div class="img">${scene
  
 // roster
 const R={
- "MEN'S TEAM":[['LOOSEHEAD PROP','Arjun Singh',1,'6 TRIES','28 APPS'],['HOOKER','Rohan Rathore',2,'9 TRIES','26 APPS'],['FLY-HALF','Karan Mehta',10,'142 PTS','24 APPS'],['WINGER','Dev Chauhan',14,'14 TRIES','28 APPS']],
+ "MEN'S TEAM":[['LOOSEHEAD PROP',HARSH',1,'6 TRIES','28 APPS'],['HOOKER','JAIPAL',2,'9 TRIES','26 APPS'],['FLY-HALF','BHUVAN',10,'142 PTS','24 APPS'],['WINGER','CHINMAY',07,'14 TRIES','28 APPS']],
  "WOMEN'S TEAM":[['CAPTAIN · CENTRE','Meera Sisodia',12,'11 TRIES','22 APPS'],['SCRUM-HALF','Anika Joshi',9,'7 TRIES','20 APPS'],['FLANKER','Priya Rawat',7,'8 TRIES','21 APPS'],['FULLBACK','Tara Bhati',15,'12 TRIES','22 APPS']],
  "UNDER-18":[['NUMBER 8','Aarav Jain',8,'10 TRIES','18 APPS'],['WINGER','Ishaan Kumawat',11,'13 TRIES','17 APPS'],['LOCK','Veer Solanki',5,'3 TRIES','16 APPS'],['FLY-HALF','Yash Gehlot',10,'88 PTS','18 APPS']],
  "JUNIOR ACADEMY":[['ACADEMY · BACKS','Rudra Meena',9,'5 TRIES','12 APPS'],['ACADEMY · FORWARDS','Kabir Paliwal',6,'4 TRIES','12 APPS'],['ACADEMY · BACKS','Diya Purohit',13,'6 TRIES','10 APPS'],['ACADEMY · FORWARDS','Neel Vyas',4,'2 TRIES','11 APPS']]};
