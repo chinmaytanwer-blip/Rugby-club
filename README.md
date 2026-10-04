@@ -197,9 +197,7 @@ footer .wrap{display:flex;justify-content:space-between;gap:16px;flex-wrap:wrap;
  
  <div class="sh" style="margin:96px 0 0"><h2>GENERALS OF THE PRIDE — <span class="gold">COACHING STAFF</span></h2></div>
  <div class="staff">
-  <div class="sc"><i></i><div><h3>Vikram Rathore</h3><span>Head Coach</span></div></div>
-  <div class="sc"><i></i><div><h3>Anita Sisodia</h3><span>Women's Team Coach</span></div></div>
-  <div class="sc"><i></i><div><h3>Dev Chauhan</h3><span>Strength &amp; Conditioning</span></div></div>
+  <div class="sc"><i></i><div><h3>ANURAJ SINGH CHUNDAWAT </h3><span>Head Coach</span></div></div>
  </div>
 </div></section>
  
