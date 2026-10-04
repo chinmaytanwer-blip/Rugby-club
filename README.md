@@ -214,7 +214,7 @@ footer .wrap{display:flex;justify-content:space-between;gap:16px;flex-wrap:wrap;
 </div></section>
 </main>
  
-<footer id="contact"><div class="wrap"><div class="logo"><span class="diamond"></span>MEWAR WARRIORS RFC</div><div id="join">Udaipur, Rajasthan • info@mewarwarriors.example</div><div id="shop">© 2026 Mewar Warriors RFC</div></div></footer>
+<footer id="contact"><div class="wrap"><div class="logo"><span class="diamond"></span>MEWAR WARRIORS RFC</div><div id="join">Udaipur, Rajasthan • chinmay.tanwer@gmail.com </div><div id="shop">© 2026 Mewar Warriors RFC</div></div></footer>
  
 <script>
 // countdown
